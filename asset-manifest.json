@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Valeegaray1/ContadorClicks/static/css/main.d3dd30b8.css",
-    "main.js": "/Valeegaray1/ContadorClicks/static/js/main.f939c79e.js",
+    "main.js": "/Valeegaray1/ContadorClicks/static/js/main.d96a3142.js",
     "static/media/logo-contador.jpg": "/Valeegaray1/ContadorClicks/static/media/logo-contador.b7aad30131b49fd116ad.jpg",
     "index.html": "/Valeegaray1/ContadorClicks/index.html",
     "main.d3dd30b8.css.map": "/Valeegaray1/ContadorClicks/static/css/main.d3dd30b8.css.map",
-    "main.f939c79e.js.map": "/Valeegaray1/ContadorClicks/static/js/main.f939c79e.js.map"
+    "main.d96a3142.js.map": "/Valeegaray1/ContadorClicks/static/js/main.d96a3142.js.map"
   },
   "entrypoints": [
     "static/css/main.d3dd30b8.css",
-    "static/js/main.f939c79e.js"
+    "static/js/main.d96a3142.js"
   ]
 }
